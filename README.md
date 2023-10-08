@@ -21,4 +21,7 @@ Download MATLAB Installer:
 Use wasd + enter to move
 
 🛠️ Todo
-Add more levels different maze generations
+Add more levels / different maze generations
+
+
+upcoming version: adding maze generation 
