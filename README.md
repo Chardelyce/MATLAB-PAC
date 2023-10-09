@@ -20,6 +20,11 @@ Download MATLAB Installer:
 - Download the pacman.m file 
 Use wasd + enter to move
 
+
+N are the ghosts 
+while 0 are the super pellets 
+
+
 🛠️ Todo
 Add more levels / different maze generations
 
